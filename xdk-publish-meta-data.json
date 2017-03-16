@@ -1,0 +1,46 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Sports"
+  },
+  "description": {
+    "texts": {
+      "title": "AdriaSport",
+      "features": [
+        "Steward virtuale Tornei AdriaSport"
+      ],
+      "short-description": "Steward virtuale Tornei AdriaSport",
+      "full-description": "Gestione Organizzazione Tornei AdriaSport\nSteward virtuale di supporto logistico ed informativo durante tutto il periodo\ndi svolgimento del torneo.",
+      "keywords": "AdriaSport, Tornei, Calcio, Viaggi",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [
+        "../screeshot/Android/screen1.png",
+        "../screeshot/Android/screen2.png",
+        "../screeshot/Android/screen3.png",
+        "../screeshot/Android/screen4.png"
+      ],
+      "app-icon-small": "package-assets/adriaLogo_114.png",
+      "app-icon": "package-assets/adriaLogo_512.png",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": "http://adriasport.somee.com/adria/DemoApp.html"
+    }
+  },
+  "packages": {
+    "apk-file": "../Build/Android/AdriaSport.apk",
+    "zip-xdk-compliant": false,
+    "zip-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "alessandro.barucci66@gmail.com",
+    "website": "http://adriasport.somee.com"
+  },
+  "testing-instructions": "Use ID:13 for testing"
+}
